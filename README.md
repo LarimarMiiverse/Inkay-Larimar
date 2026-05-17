@@ -1,6 +1,6 @@
 # Inkay-Larimar - Aroma patches for Pretendo Network + Larimar Miiverse
 
-[![Pretendo network logo](https://github.com/PretendoNetwork/website/raw/master/public/assets/images/opengraph/opengraph-image.png)](https://pretendo.network)
+[![Pretendo network logo](https://media.discordapp.net/attachments/1470101206541013064/1504885489566482633/yeah-miiverse.png?ex=6a0a9794&is=6a094614&hm=a099584e8d70e41a4d7a5417d9e40cf5c679ab8d5ca842be72cc12a8cae7c80a&=&format=png)](https://pretendo.network)
 
 Inkay-Larimar is an Aroma/WUPS plugin that patches various Nintendo Network URLs on a Wii U to use Pretendo Network + Larimar instead. It also (for the time being) bypasses SSL verification in most cases. It redirects Nintendo Network in:
 

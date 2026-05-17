@@ -1,4 +1,4 @@
-# Inkay-Larimar - Aroma patches for Pretendo Network + Larimar Miiverse
+# Inkay-Larimar - Aroma patches for Pretendo Network + Larimar Miiverse/Eshop Replacements
 
 [![Pretendo network logo](https://media.discordapp.net/attachments/1470101206541013064/1504885489566482633/yeah-miiverse.png?ex=6a0a9794&is=6a094614&hm=a099584e8d70e41a4d7a5417d9e40cf5c679ab8d5ca842be72cc12a8cae7c80a&=&format=png)](https://pretendo.network)
 
